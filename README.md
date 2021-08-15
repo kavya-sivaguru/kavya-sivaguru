@@ -14,7 +14,7 @@
 
 Strong in intuitive problem-solving skills. 
 
-I’m currently learning  🌱 back-end development using open source technologies (NodeJs, Python),  🌱 front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),  🌱 Server Administrator(AWS),  🌱 database(MongoDB, Mysql). 
+I’m currently learning  🌱 back-end development using open source technologies (NodeJs, Python),  🌱 front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive UI),  🌱 Server Administrator(AWS),  🌱 database(MongoDB, Mysql). 
 
 Passionate about implementing and launching new projects. 
 Ability to translate business requirements into technical solutions. 
