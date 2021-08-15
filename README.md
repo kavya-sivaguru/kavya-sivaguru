@@ -14,9 +14,7 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Renuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/renuka-maradagi-a06934212/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Renuka-yellow)](https://www.Renuka.me)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Renuka-blue)](https://stackoverflow.com/users/16351154/renuka-maradagi?tab=profile)
+[![Linkedin Badge](https://img.shields.io/badge/-Kavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/kavya-sivagurunathan-1bb810161/)
 
 Strong in intuitive problem-solving skills. Proficient in C, HTML, CSS, SQL, JAVASCRIPT, React.js, Node.js. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 💬 Ask me about ...- 🌱 I’m currently learning ...
