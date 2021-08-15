@@ -13,12 +13,12 @@
 <br/>
 
 
-
+📫 You can reach me:  <a href="mailto: kavya.sivaguru@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 [![Linkedin Badge](https://img.shields.io/badge/-Kavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/kavya-sivagurunathan-1bb810161/)
 
 Strong in intuitive problem-solving skills. Proficient in C, HTML, CSS, SQL, JAVASCRIPT, React.js, Node.js. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
 💬 Ask me about ...- 🌱 I’m currently learning ...
-📫 You can reach me:  <a href="mailto: kavya.sivaguru@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
+
 
 
 
