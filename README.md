@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Kavya Sivagurunathan 👋</h1>
-<h3 align = "center">FULL STACK DEVELPOMENT INTERN @ EDUREKA</h3>
+<h3 align = "center">Post Graduation in Data Science and Engineering</h3>
 
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/kavya-sivagurunathan-1bb810161/)">
   <img align="left" alt="Kavya's Linkdein" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
