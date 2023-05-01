@@ -37,7 +37,7 @@ Languages and Tools:
 <br/>
 
 You can reach me:  <a href="mailto: kavya.sivaguru@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
-[![Linkedin Badge](https://img.shields.io/badge/-Kavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/kavya-sivagurunathan-1bb810161/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/kavyasivagurunathan/)
 
 <!--
 **kavya-sivaguru/kavya-sivaguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
