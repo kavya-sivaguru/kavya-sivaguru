@@ -1,8 +1,8 @@
-<h1 align = "center">Hello, I'm Kavya Sivagurunathan 👋</h1>
-<h3 align = "center">Post Graduation in Data Science and Engineering</h3>
+<h1 align = "center">Hello, I'm Kavya Sivagurunathan</h1>
+<h3 align = "center">Post Graduation Program in Data Science and Engineering</h3>
 
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/kavya-sivagurunathan-1bb810161/)">
-  <img align="left" alt="Kavya's Linkdein" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Kavya's Linkedin" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/kavya-sivaguru">
   <img align="left" alt="Kavya's Github" width="22px" colour="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -14,12 +14,12 @@
 
 Strong in intuitive problem-solving skills. 
 
-🌱 I've just completed my post-graduation in Data Science and Engineering from the Great Lakes Institute of Management. 
-🌱 Throughout the program, I have developed my knowledge of the fundamentals of Data Science and Machine Learning concepts and have equipped myself with the tools needed for effective data collection, processing, and visualization. 
+I've just completed my post-graduation in Data Science and Engineering from the Great Lakes Institute of Management. 
+Throughout the program, I have developed my knowledge of the fundamentals of Data Science and Machine Learning concepts and have equipped myself with the tools needed for effective data collection, processing, and visualization. 
 
-🌱 Passionate about implementing and launching new projects. 
-🌱 Ability to translate business requirements into technical solutions. 
-🌱 Looking to start a career as an entry-level data analyst | data scientist | ML engineer with a reputed firm driven by the latest technologies.
+Passionate about implementing and launching new projects. 
+Ability to translate business requirements into technical solutions. 
+Looking to start a career as an entry-level data analyst | data scientist | ML engineer with a reputed firm driven by the latest technologies.
  
 ![Visitor Count](https://profile-counter.glitch.me/kavya-sivaguru/count.svg)
 <br/>
@@ -36,7 +36,7 @@ Languages and Tools:
 <br/>
 <br/>
 
-📫 You can reach me:  <a href="mailto: kavya.sivaguru@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
+You can reach me:  <a href="mailto: kavya.sivaguru@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&logo=gmail&logoColor=white"/></a>
 [![Linkedin Badge](https://img.shields.io/badge/-Kavya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/kavya-sivagurunathan-1bb810161/)
 
 <!--
