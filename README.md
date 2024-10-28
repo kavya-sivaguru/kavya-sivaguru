@@ -1,5 +1,5 @@
 <h1 align = "center">Hello, I'm Kavya Sivagurunathan</h1>
-<h3 align = "center">Post Graduation Program in Data Science and Engineering</h3>
+<h3 align = "center">Associate Data Scientist @ iSOCRATES LLC | Large Language Models, Generative AI</h3>
 
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/kavya-sivagurunathan-1bb810161/)">
   <img align="left" alt="Kavya's Linkedin" width="22px" color="white" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,14 +12,9 @@
 <br/>
 <br/>
 
-Strong in intuitive problem-solving skills. 
+With a PGP in Data Science and Engineering, I've honed my expertise in Generative AI to deliver cutting-edge solutions in customer analytics. At iSOCRATES LLC, our team has successfully deployed a predictive classification model aimed at boosting customer retention, reflecting a keen acumen in fine-tuning algorithms for maximum impact.
 
-I've just completed my post-graduation in Data Science and Engineering from the Great Lakes Institute of Management. 
-Throughout the program, I have developed my knowledge of the fundamentals of Data Science and Machine Learning concepts and have equipped myself with the tools needed for effective data collection, processing, and visualization. 
-
-Passionate about implementing and launching new projects. 
-Ability to translate business requirements into technical solutions. 
-Looking to start a career as an entry-level data analyst | data scientist | ML engineer with a reputed firm driven by the latest technologies.
+My core competencies include Large Language Models and Prompt Engineering, which powered the development of a structured data-specific LLM-based Q&A chatbot showing my strong commitment to continuous improvement by expanding my skills to stay at the forefront of analytics.
  
 ![Visitor Count](https://profile-counter.glitch.me/kavya-sivaguru/count.svg)
 <br/>
