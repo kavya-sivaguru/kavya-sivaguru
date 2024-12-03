@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-With a PGP in Data Science and Engineering, I've honed my expertise in Generative AI to deliver cutting-edge solutions in customer analytics.  I’m currently working on building an LLM based chatbot using langchain that can work on structured data and also learning Generative AI. My core competencies include Machine Leanrning, Deep Learning, NLP, Large Language Models and Prompt Engineering strong commitment to continuous improvement by expanding my skills to stay at the forefront of analytics.
+I'm a data scientist with a PGP in Data Science and Engineering, I've honed my expertise in predictive modelling and am currently exploring Generative AI to deliver cutting-edge solutions in analytics.  I’m currently working on working on a chatbot to chat with CSV files. My core competencies include Machine Leanrning, Deep Learning, NLP, Large Language Models and Prompt Engineering strong commitment to continuous improvement by expanding my skills to stay at the forefront of analytics.
  
 ![Visitor Count](https://profile-counter.glitch.me/kavya-sivaguru/count.svg)
 <br/>
